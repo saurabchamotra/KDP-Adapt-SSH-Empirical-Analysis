@@ -1,0 +1,6 @@
+category,n,continued,not_continued,rate
+Shell / CLI,50,37,13,74.0
+Filesystem / write / navigation,57,33,24,57.89473684210526
+Payload retrieval / staging,21,6,15,28.571428571428573
+Network / device,15,3,12,20.0
+Architecture / binary,243,24,219,9.876543209876543

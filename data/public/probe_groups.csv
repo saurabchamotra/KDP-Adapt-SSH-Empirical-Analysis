@@ -1,0 +1,7 @@
+class,CID_members
+Shell / CLI,"2, 3, 4, 5, 7"
+Filesystem / write / navigation,"9, 10, 20, 27, 39, 57, 76, 108, 113"
+Payload retrieval / staging,"65, 67, 80, 85, 86, 94, 95, 96, 103, 104, 109"
+Network / device,"18, 19, 69, 70, 77, 78"
+Architecture / binary,"1, 6, 8, 14, 16, 72"
+Privilege / identity (excluded from chart: n=3),"22, 58"

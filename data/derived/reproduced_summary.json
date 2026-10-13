@@ -1,0 +1,17 @@
+{
+  "session_linked_events": 378867,
+  "recorded_sessions": 387,
+  "mapped_command_events": 627,
+  "unmatched_events": 378240,
+  "mapped_command_sessions": 339,
+  "unmatched_only_sessions": 48,
+  "distinct_mapped_CIDs": 53,
+  "median_recorded_events_per_session": 1.0,
+  "one_event_sessions": 230,
+  "at_most_two_events": 253,
+  "at_most_five_events": 288,
+  "at_most_ten_events": 311,
+  "maximum_recorded_events_in_session": 10940,
+  "timestamp_ordering_limit": "One-second timestamp precision",
+  "scan_label_limit": "Unmatched records; not necessarily network scanning"
+}

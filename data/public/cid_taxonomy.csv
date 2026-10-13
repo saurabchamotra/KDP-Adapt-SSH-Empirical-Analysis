@@ -1,0 +1,54 @@
+CID,mitre_tactic,mitre_technique_id
+1,Discovery,T1082
+2,Execution,T1059.008
+3,Execution,T1059.008
+4,Execution,T1059.004
+5,Execution,T1059.008
+6,Discovery,T1082
+7,Execution,T1059.008
+8,Discovery,T1082
+9,Execution,T1059.004
+10,Discovery,T1083
+14,Discovery,T1082
+15,Discovery,T1016
+16,Discovery,T1082
+17,Execution,T1059.004
+18,Discovery,T1016
+19,Discovery,T1016
+20,Discovery,T1083
+22,Discovery,T1033
+27,Discovery,T1083
+39,Collection,T1005
+57,Discovery,T1083
+58,Discovery,T1033
+61,Defense Impairment,T1686
+65,Command and Control,T1105
+67,Command and Control,T1105
+68,Impact,T1496.001
+69,Discovery,T1016
+70,Discovery,T1016
+71,Defense Impairment,T1690
+72,Discovery,T1082
+73,Defense Impairment,T1686
+74,Discovery,T1057
+76,Execution,T1059.004
+77,Execution,T1059.004
+78,Discovery,T1016
+80,Execution,T1059.004
+81,Privilege Escalation,T1548.003
+82,Privilege Escalation,T1548.003
+83,Privilege Escalation,T1548.003
+84,Discovery,T1057
+85,Stealth,T1140
+86,Command and Control,T1105
+94,Command and Control,T1105
+95,Command and Control,T1105
+96,Execution,T1059.004
+97,Stealth,T1070.003
+102,Defense Impairment,T1685.006
+103,Command and Control,T1105
+104,Command and Control,T1105
+108,Discovery,T1083
+109,Defense Impairment,T1222.002
+110,Defense Impairment,T1685.006
+113,Discovery,T1083

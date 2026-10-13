@@ -1,0 +1,14 @@
+{
+  "observation_start": "2025-01-02",
+  "observation_end": "2025-08-28",
+  "recorded_sessions": 387,
+  "session_linked_events": 378867,
+  "mapped_command_events": 627,
+  "unmatched_events": 378240,
+  "mapped_command_sessions": 339,
+  "unmatched_only_sessions": 48,
+  "distinct_mapped_CIDs": 53,
+  "privacy_redaction": "All collection endpoints collapsed to HP; IP addresses and original session IDs omitted.",
+  "timestamp_resolution": "1 second",
+  "unmatched_label_note": "SCAN indicates unmatched, not independently verified network scanning."
+}

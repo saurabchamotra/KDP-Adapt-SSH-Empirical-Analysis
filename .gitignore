@@ -1,0 +1,22 @@
+# Do not commit original or intermediate logs.
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+*.db
+*.sqlite
+*.sqlite3
+*.pcap
+*.pcapng
+*.log
+.env
+private/
+raw/
+original/
+source-data/
+merged_cleaned_sessions.csv
+honeypot_anonymized_*.csv
+honeypot_anonymized_*.zip
+*private*.csv
+*.pem
+*.key
